@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AteneoAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/values")]
     public class ValuesController : Controller
     {
         // GET: api/<controller>
